@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.eco.bio7.libs.ext.feature_1.0.0.201901081626.jar" id="com.eco.bio7.libs.ext.feature" version="1.0.0.201901081626">
+      <category name="Bio7 Java Libraries"/>
+   </feature>
+   <category-def name="Bio7 Java Libraries" label="Bio7 Java Libraries"/>
+</site>
